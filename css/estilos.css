@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=KoHo:wght@600&display=swap');
+
+@font-face {
+    font-family: 'Reggae One';
+    src: url("../fonts/ReggaeOne-Regular.ttf");
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;;
+}
+html{
+    font-size: 30px;
+    font-family: 'Reggae One';
+}
+
+#logito{
+    width: 750px;
+    text-align: center;
+}
+
+p{
+    font-family: 'KoHo';
+    font-size: 1rem;
+}
+
+.menu{
+    background-color: rgb(216, 175, 41);
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+h1{
+    font-size: 3rem;
+}
+h3{
+    font-size: 1.75rem;
+}
+h2{
+    font-size: 2rem;
+    text-align: center;
+}
+.espacio{
+    margin-bottom: 50px;
+}
+.center {
+    text-align: center;
+    border: 3px solid black;
+    width: 100%;
+  }
+td{
+    margin: 200px;
+}
+.ordenado {
+    text-align: center;
+    width: 100%;
+}
+.div1 {
+    margin: 25px;
+    text-align: center;
+}
+.espacio{
+    margin-bottom: 50px;
+}
+
+#image2{
+    margin-right: 50px;
+    width: 250px;
+    height: 375px;
+}
+
+#acomodo{
+    width: 250px;
+    height: 375px;
+    margin: 20px;
+    border: 1px solid rgb(95, 68, 9);
+    box-shadow: 10px -10px 5px rgb(0, 0, 0);
+    border-radius: 20px; 
+    overflow: hidden; 
+    float: middle;
+    margin-right: 50px;
+}
+figure{
+    width: 250px;
+    height: 375px;
+    margin: 20px;
+    display: inline-block;
+    border-radius: 20px; 
+    overflow: hidden; 
+}
+
+
